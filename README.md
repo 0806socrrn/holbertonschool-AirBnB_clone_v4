@@ -159,6 +159,12 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
+Collaborators 
+
+Yoshua Lopez <4623@holbertonstudents.com>
+Maria Paz Quirola <4534@hoblertonstudents.com>
+Laura Socarras <4575@holbertonstudents.com>
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
